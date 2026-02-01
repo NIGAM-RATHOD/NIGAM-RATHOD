@@ -98,18 +98,15 @@ Leveraging technical analysis and market research to navigate the dynamic world 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NIGAM-RATHOD&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NIGAM-RATHOD&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NIGAM-RATHOD&theme=radical&hide_border=true)
+![Repos](https://img.shields.io/badge/Total%20Repos-15-blue?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Total%20Stars-50-yellow?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Total%20Commits-500-green?style=for-the-badge)
 
 </div>
-
 ---
 
 ## 🌟 Featured Projects
@@ -156,9 +153,7 @@ Feel free to reach out if you want to build something amazing together!
   
 ### ⚡ Fun Fact
 *I believe the best code is written when you're passionate about what you're building!*
-
 **💼 Open to freelance opportunities and exciting collaborations**
 
-![Profile Views](https://komarev.com/ghpvc/?username=NIGAM-RATHOD&color=blueviolet&style=for-the-badge)
-
-</div>
+🌐 **Portfolio:** [Nigamrathod.com](https://Nigamrathod.com)
+🌐 **Game:** [Laxigam.com](https://Laxigam.com)

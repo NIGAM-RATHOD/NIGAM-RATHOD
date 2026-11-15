@@ -1,159 +1,154 @@
-<div align="center">
-  
-# 👋 Hey there, I'm Nigam Rathod
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:00d4ff&height=200&section=header&text=Nigam%20Rathod&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Security%20Engineer%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20Game%20Builder&descAlignY=58&descSize=18" alt="Nigam Rathod banner"/>
+</p>
 
-### Full-Stack Developer | Blockchain Enthusiast | 3D Artist | Crypto Trader
+<p align="center">
+  <a href="https://nigamrathod.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=%3E+PLAYER+1+READY...;Securing+AWS+%26+Azure+workloads;Terraform+%E2%80%A2+Kubernetes+%E2%80%A2+CI%2FCD;Pentesting+to+build+better+defenses;Building+games+that+teach+cloud+%26+security" alt="Typing intro"/>
+  </a>
+</p>
 
-*Building the future, one block at a time* 🚀
+<p align="center">
+  <a href="https://nigamrathod.com"><img src="https://img.shields.io/badge/Portfolio-nigamrathod.com-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/nigam-rathod007"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nigamrathod.official@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://laxigam.com"><img src="https://img.shields.io/badge/Play-laxigam.com-8A2BE2?style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nigam-rathod007/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nig.am007/)
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a passionate **Full-Stack Developer** from India with a diverse skill set spanning blockchain development, cloud infrastructure, and creative design. When I'm not coding, you'll find me crafting stunning 3D models in Blender or analyzing crypto market trends.
-
-- 🔭 Currently building cutting-edge **blockchain wallet solutions**
-- 🌱 Expanding my expertise in **Kotlin** for Android development
-- 🤝 Open to collaboration on **blockchain and DeFi projects**
-- 🎨 Side hustling with **3D Blender** design and visualization
-- 📊 Active **cryptocurrency trader** with a passion for blockchain technology
-- 💡 Always exploring new technologies and pushing boundaries
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NIGAM-RATHOD&label=Profile%20views&color=00d4ff&style=flat-square" alt="Profile views"/>
+  <a href="https://github.com/NIGAM-RATHOD?tab=followers"><img src="https://img.shields.io/github/followers/NIGAM-RATHOD?label=Followers&style=flat-square&color=0f3460" alt="Followers"/></a>
+  <img src="https://img.shields.io/badge/Open%20to-Full--time%20%26%20Freelance-2ea44f?style=flat-square" alt="Open to work"/>
+</p>
 
 ---
 
-## 💼 What I Do
+## 🎮 Player Profile
 
-### 🔗 Blockchain Development
-Building decentralized applications and smart contracts that shape the future of finance and technology.
+```yaml
+player:      Nigam Rathod
+class:       Cloud Security Engineer  (sub-class: Ethical Hacker)
+region:      India  •  Remote-friendly
+main_quest:  Design secure, automated cloud infrastructure on AWS & Azure
+skills:      [Cloud Security Architecture, IaC, Pentesting, Linux, Automation]
+side_quest:  Building games that teach Linux, networking, security & cloud
+status:      🟢 Open to full-time roles and freelance projects
+```
 
-### 🎨 3D Design & Visualization
-Creating immersive 3D experiences and product visualizations using Blender for clients worldwide.
-
-### 📈 Cryptocurrency Trading
-Leveraging technical analysis and market research to navigate the dynamic world of digital assets.
-
----
-
-## 🛠️ Tech Stack
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### **Blockchain & Web3**
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-
-### **Mobile Development**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-**AWS Services:** EC2, S3, Lambda, DynamoDB, RDS, CloudFormation, API Gateway, CloudWatch
-
-**Google Cloud Services:** Compute Engine, Cloud Storage, Cloud Functions, BigQuery, Cloud Run, Firebase
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### **3D Design & Creative Tools**
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobe&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- 🛡️ I design and harden cloud environments, then **pentest them to make the defenses stronger**.
+- ⚙️ Currently levelling up in **Terraform, Kubernetes and DevSecOps pipelines**.
+- 🎓 Former **Cloud Security Trainer** — taught cloud security, Linux, networking and Python to student batches.
+- 🕹️ I also build games: a browser game at **[laxigam.com](https://laxigam.com)** and **LXG Quest**, a retro RPG that teaches IT skills.
 
 ---
 
-## 📊 GitHub Overview
+## 🏆 Achievements Unlocked
 
-<div align="center">
-
-![Repos](https://img.shields.io/badge/Total%20Repos-15-blue?style=for-the-badge)
-![Stars](https://img.shields.io/badge/Total%20Stars-50-yellow?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Total%20Commits-500-green?style=for-the-badge)
-
-</div>
----
-
-## 🌟 Featured Projects
-
-*Check out my pinned repositories below for my latest work in blockchain, web development, and more!*
+<p>
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC--Council-EHE%20Ethical%20Hacking-B31B1B?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC--Council-DFE%20Digital%20Forensics-B31B1B?style=for-the-badge&logo=securityscorecard&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BCA-Cloud%20Computing%20(Distinction)-4B0082?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</p>
 
 ---
 
-## 💡 Current Focus
+## 🧰 Inventory (Tech Stack)
 
-- 🔐 Building secure and scalable blockchain wallet infrastructure
-- 📱 Developing cross-platform mobile applications with Kotlin
-- ☁️ Architecting cloud-native solutions using AWS and Google Cloud Platform
-- 🎨 Creating high-quality 3D assets and animations for digital products
-- 📈 Researching DeFi protocols and smart contract security
+**☁️ Cloud & Infra**
+<p><img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,terraform,kubernetes,docker,jenkins,githubactions,linux,redhat,bash&perline=12" alt="Cloud stack"/></p>
 
----
+**🛡️ Security**
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IAM_%26_Zero_Trust-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+</p>
 
-## 🤝 Let's Collaborate
-
-I'm always excited to work on innovative projects, especially in:
-- **Blockchain & DeFi Applications**
-- **Web3 and Decentralized Solutions**
-- **Cloud-Native Architecture**
-- **3D Visualization & Product Design**
-- **Full-Stack Web Applications**
-
-Feel free to reach out if you want to build something amazing together!
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nigam-rathod007/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nig.am007/)
-
-</div>
+**💻 Code, Game & 3D**
+<p><img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,react,threejs,blender,androidstudio,git,github,vscode&perline=12" alt="Dev stack"/></p>
 
 ---
 
-<div align="center">
-  
-### ⚡ Fun Fact
-*I believe the best code is written when you're passionate about what you're building!*
-**💼 Open to freelance opportunities and exciting collaborations**
+## 🗺️ Quest Log (Featured Projects)
 
-🌐 **Portfolio:** [Nigamrathod.com](https://Nigamrathod.com)
-🌐 **Game:** [Laxigam.com](https://Laxigam.com)
+| Quest | What it does | Stack |
+|---|---|---|
+| 🕵️ **[CloudCoroner](https://github.com/NIGAM-RATHOD/CloudCoroner)** | AI-assisted cloud forensics — reconstructs what happened after a cloud incident | Python · AWS · AI |
+| 🪤 **[GhostCred](https://github.com/NIGAM-RATHOD/GhostCred)** | Honeytoken credential traps that alert you the moment an attacker uses a fake key | Python · Cloud |
+| 🧬 **[AttackDNA](https://github.com/NIGAM-RATHOD/AttackDNA)** | Turns CVEs into visual attack chains to prioritise what to patch first | Python · Security |
+| 🎙️ **[DeepVoice-Shield](https://github.com/NIGAM-RATHOD/DeepVoice-Shield)** | Detects deepfake / AI-cloned voices | Python · ML |
+| ☁️ **[Aws-cloud-demo-test](https://github.com/NIGAM-RATHOD/Aws-cloud-demo-test)** | Hands-on AWS architecture & automation lab | AWS · Terraform |
+| 🌐 **[3D Portfolio](https://nigamrathod.com)** | Interactive 3D avatar portfolio, deployed on Cloudflare | Three.js · JS · Cloudflare |
+
+---
+
+## 🕹️ Game Zone
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ [LAXIGAM](https://laxigam.com)
+A hybrid-genre **browser game** that shifts between 3D first-person, 2D puzzle and 3D boss stages — built and hosted on Cloudflare.
+
+<a href="https://laxigam.com"><img src="https://img.shields.io/badge/▶_Play_Now-laxigam.com-8A2BE2?style=for-the-badge"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 [LXG Quest](https://github.com/NIGAM-RATHOD/LXG-Quest)
+A retro, GBA-style top-down RPG for Android where you **learn Linux, networking, security and cloud** by solving in-world challenges.
+
+<img src="https://img.shields.io/badge/Status-Coming_to_Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Player Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NIGAM-RATHOD&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIGAM-RATHOD&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NIGAM-RATHOD&theme=github-dark-blue&hide_border=true" alt="Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NIGAM-RATHOD&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
+</p>
+
+---
+
+## 🐍 Boss Fight: My Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NIGAM-RATHOD/NIGAM-RATHOD/output/github-snake-dark.svg" alt="Snake eating my contributions"/>
+</p>
+
+---
+
+## 🤝 Join the Party
+
+I'm open to **Cloud Security / Cloud Engineer roles** and **freelance projects** — cloud security architecture, AWS/Azure hardening, IaC and security assessments.
+
+<p align="center">
+  <a href="https://linkedin.com/in/nigam-rathod007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nigamrathod.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://nigamrathod.com"><img src="https://img.shields.io/badge/Website-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://github.com/NIGAM-RATHOD?tab=followers"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center"><i>⭐ If a project helps you, a star is the best XP you can give. ⭐</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0f3460,100:0d1117&height=110&section=footer" width="100%"/>
